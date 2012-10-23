@@ -1,4 +1,11 @@
 Remove-Duplicate-Contextual-Menu-Items
 ======================================
 
-Shell Script and Alfred Extension to clean up those pesky duplicate contextual menu items (as shown in the image below) when you right-click a file. Check out [Doc’s Tech Notes](http://www.docstechnotes.com) for more information.
+This repository contains both a shell script (*rdcmi.command*) and an Alfred extension (*Remove Duplicate Contextual Menu Items.alfredextension*) to clean up those pesky duplicate contextual menu items when you right-click a file. 
+
+* Double-click the *rdcmi.command* to run the shell script
+* Double-click the *Remove Duplicate Contextual Menu Items.alfredextension* to install the Alfred Extension
+
+The code found in the shell script is identical to the code found the Alfred extension. Any update to the shell script will be updated in the Alfred extension to keep them in parity.
+
+Check out the [Doc’s Tech Notes post](http://www.docstechnotes.com/2012/10/remove-duplicate-contextual-menu-items.html) for more information.
