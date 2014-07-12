@@ -10,4 +10,4 @@ This repository contains a shell script (*rdcmi.command*), an Alfred 2 Workflow 
 
 The code found in the shell script is identical to the code found the Alfred workflow/extension. Any update to the shell script will be updated in the Alfred extension to keep them in parity.
 
-Check out the [Doc’s Tech Notes Alfred Workflows page](http://www.docstechnotes.com/p/alfred-extensions.html) for more information.
+Check out the [this blog post](http://www.stevencombs.com/alfred/2013/04/13/alfred-remove-duplicate-contextual-menu-items-workflow.html) for more information.
